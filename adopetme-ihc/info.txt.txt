@@ -1,0 +1,23 @@
+Nome dos Alunos e RA:
+
+Matheus de Andrade Lourenço	10419691
+Murillo Cadoso Ferreira		10418082
+Pietro Zanaga Neto		10418574
+
+Como abrir o projeto?
+É necessário ter algum servidor HTTP simples. (Recomendações: Live Server ou npm serve)
+
+Como baixar serve?
+É necessário ter Node.js/npm instalado, após isso escreva:
+
+/*
+npm install -g serve
+*/
+
+entre na pasta dist dentro do terminal e execute:
+
+/*
+serve .
+*/
+
+após isso é só acessar a porta que está hospedando o projeto.

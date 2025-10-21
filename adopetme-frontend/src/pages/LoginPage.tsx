@@ -1,4 +1,4 @@
-// matheus-de-andrade-lourenco/prototipo_adopet/Prototipo_Adopet-83121f52595e1e8153395d49fca8b2dc2b85a109/adopetme-frontend/src/pages/LoginPage.tsx 
+// src/pages/LoginPage.tsx
 
 import React, { useState, FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
